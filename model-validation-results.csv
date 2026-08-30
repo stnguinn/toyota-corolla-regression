@@ -1,0 +1,3 @@
+Model,RMSE,MAE,R_Squared
+Full Model,1430.039,1053.714,0.8235447
+Reduced Model,1429.975,1053.636,0.8235603
