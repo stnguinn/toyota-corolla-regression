@@ -48,10 +48,7 @@ if (length(missing_packages) > 0) {
     )
   )
 }
-#install packages
-install.packages("ggplot2")
-install.packages(car)
-install.packages(lm.beta)
+#load librarys
 library(ggplot2)
 library(car)
 library(lm.beta)
